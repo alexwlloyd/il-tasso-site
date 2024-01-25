@@ -11,7 +11,7 @@ const MobileHeader = () => {
     <nav className="main-menu d-block d-xl-none">
       <ul>
     <li>
-        <Link href="/">Home</Link>
+        <Link href="/index-2">Home</Link>
       </li>
       <li>
         <Link href="/about">Chi Siamo</Link>
