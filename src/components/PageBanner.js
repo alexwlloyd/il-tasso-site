@@ -8,7 +8,6 @@ const PageBanner = ({ pageName, pageTitle }) => {
     >
       <div className="brand-card text-center">
         <img src="assets/images/icon/wheat.png" alt="icon" />
-        <h4>tutti nostri prezzi</h4>
       </div>
       <div className="container">
         <div className="row">

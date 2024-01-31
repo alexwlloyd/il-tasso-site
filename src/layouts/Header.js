@@ -198,7 +198,7 @@ const DefaultHeader = () => (
           <div className="site-branding">
             <Link href="/">
               <a className="brand-logo">
-                <img src="assets/images/logo/logo-1.png" alt="Site Logo" />
+                <img src="assets/images/logo/logo-3.png" alt="Site Logo" />
               </a>
             </Link>
             <Link href="/">
@@ -271,7 +271,7 @@ const Menu = () => (
   <nav className="main-menu d-none d-xl-block">
     <ul>
     <li>
-        <Link href="/index-2">Home</Link>
+        <Link href="/">Home</Link>
       </li>
       <li>
         <Link href="/products">Prodotti</Link>
